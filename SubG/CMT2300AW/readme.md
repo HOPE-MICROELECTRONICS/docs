@@ -3,14 +3,14 @@ CMT2300A is an ultra-low power, high performance, OOK (G) FSK RF transceiver sui
 
 
 # Applications of RF Transceiver IC CMT2300AW:
-*** Auto Metering Reading   
-*** Home Security and Building Automation   
-*** ISM Band Data Communication    
-*** Industrial Monitoring and Controls   
-*** Remote Control and Alarm System   
-*** Remote Keyless Entry   
-*** Wireless Sensor Networking   
-*** Tag Readers   
+- Auto Metering Reading   
+- Home Security and Building Automation   
+- ISM Band Data Communication    
+- Industrial Monitoring and Controls   
+- Remote Control and Alarm System   
+- Remote Keyless Entry   
+- Wireless Sensor Networking   
+- Tag Readers   
  
 # Applications Notes:
 ## EN
