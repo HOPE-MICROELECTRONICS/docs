@@ -5,7 +5,7 @@
 The HopeRF RFDK is a development kit designed to facilitate the evaluation and testing of HopeRF's range of RF modules. It provides a straightforward platform for developers to assess module performance and expedite the development process from prototype to final product.
 
 <div align="center">
-  <img src="/images/SubG_RFDK.jpg">  
+  <img src="/images/SubG_RFDK.jpg" width="600">  
 </div>  
 </br> 
 
@@ -38,7 +38,7 @@ corresponding COB module of radio frequency characteristics easily and intuitive
 advantages which are suitable for R&D evaluation and out door distance evaluation
 
 <div align="center">
-  <img src="/images/SubG_RFEVB.jpg">  
+  <img src="/images/SubG_RFEVB.jpg" width="600">  
 </div>  
 </br> 
 
@@ -46,14 +46,11 @@ advantages which are suitable for R&D evaluation and out door distance evaluatio
 HopeDuino is an Arduino-compatible development platform created by HOPERF, a leading manufacturer of wireless RF chips and sensors. This platform is designed to facilitate the evaluation and development of applications using HOPERF's RF modules.
 
 <div align="center">
-  <img src="/images/SubG_HOPEDUINO.png">  
+  <img src="/images/SubG_HOPEDUINO.png" width="600">  
+  <img src="/images/SubG_Hopeduino_2.jpg" width="600">  
 </div>  
 </br> 
 
-<div align="center">
-  <img src="/images/SubG_Hopeduino_2.png">  
-</div>  
-</br> 
 
 ## Key Features of HopeDuino:
 ### Compatibility: 
