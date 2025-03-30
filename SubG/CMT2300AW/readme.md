@@ -12,7 +12,7 @@ CMT2300A is an ultra-low power, high performance, OOK (G) FSK RF transceiver sui
 - Wireless Sensor Networking   
 - Tag Readers   
  
-# Applications Notes:
+# Application Notes:
 ## EN
 AN141 CMT2300AW Schematic and PCB Layout Design Guideline   
 AN142_CMT2300AW_Quick_Start_Guide   
