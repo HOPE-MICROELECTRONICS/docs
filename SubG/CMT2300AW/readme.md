@@ -3,34 +3,34 @@ CMT2300A is an ultra-low power, high performance, OOK (G) FSK RF transceiver sui
 
 
 # Applications of RF Transceiver IC CMT2300AW:
-*** Auto Metering Reading
-*** Home Security and Building Automation
-*** ISM Band Data Communication
-*** Industrial Monitoring and Controls
-*** Remote Control and Alarm System
-*** Remote Keyless Entry
-*** Wireless Sensor Networking
-*** Tag Readers
-
+*** Auto Metering Reading   
+*** Home Security and Building Automation   
+*** ISM Band Data Communication    
+*** Industrial Monitoring and Controls   
+*** Remote Control and Alarm System   
+*** Remote Keyless Entry   
+*** Wireless Sensor Networking   
+*** Tag Readers   
+ 
 # Applications Notes:
 ## EN
-AN141 CMT2300AW Schematic and PCB Layout Design Guideline
-AN142_CMT2300AW_Quick_Start_Guide
-AN143-CMT2300A FIFO and Packet Format Usage GuideLine_EN
-AN144-CMT2300AW RSSI Usage Guideline_EN
-AN146-CMT2300A Low Power Mode Usage Guideline_EN
-AN147-CMT2300AW Features Usage Guideline_EN
-AN148-CMT2300A RF-EB Usage Guideline
-AN149-CMT2300AW RF Parameter Configuration Guideline_EN
-AN150-CMT2300AW Low Voltage Transmitting Power Compensation_EN
+AN141 CMT2300AW Schematic and PCB Layout Design Guideline   
+AN142_CMT2300AW_Quick_Start_Guide   
+AN143-CMT2300A FIFO and Packet Format Usage GuideLine_EN   
+AN144-CMT2300AW RSSI Usage Guideline_EN   
+AN146-CMT2300A Low Power Mode Usage Guideline_EN   
+AN147-CMT2300AW Features Usage Guideline_EN   
+AN148-CMT2300A RF-EB Usage Guideline   
+AN149-CMT2300AW RF Parameter Configuration Guideline_EN   
+AN150-CMT2300AW Low Voltage Transmitting Power Compensation_EN   
 
 ## CN
-AN141 CMT2300A原理图与PCB版图指南
-AN142 CMT2300A快速上手指南
-AN143 CMT2300A FIFO和包格式使用指南
-AN144 CMT2300A RSSI使用指南
-AN146 CMT2300A低功耗模式使用指南
-AN147 CMT2300A特色功能使用指南
-AN148 CMT2300A RF-EB 用户指南
-AN149 CMT2300A射频参数配置指南
-AN150 CMT2300A低电压发射功率补偿
+AN141 CMT2300A原理图与PCB版图指南   
+AN142 CMT2300A快速上手指南   
+AN143 CMT2300A FIFO和包格式使用指南   
+AN144 CMT2300A RSSI使用指南   
+AN146 CMT2300A低功耗模式使用指南   
+AN147 CMT2300A特色功能使用指南   
+AN148 CMT2300A RF-EB 用户指南   
+AN149 CMT2300A射频参数配置指南   
+AN150 CMT2300A低电压发射功率补偿   
