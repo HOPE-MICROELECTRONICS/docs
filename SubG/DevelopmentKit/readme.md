@@ -4,15 +4,15 @@ HopeRF provides both hardware and software tools for developing and testing RF c
 A software tool for configuring HopeRF modules like RF transceivers.
 Allows users to adjust parameters such as frequency, modulation, and power levels.
 
-*RFDK (RF Development Kit) & EVB (Evaluation Boards)*   
-RFDK includes hardware kits for developing RF applications using HopeRF chips.
-EVBs are specific evaluation boards for testing and optimizing HopeRF RF modules.
-These tools help engineers validate RF performance and integrate HopeRF solutions into their projects.
-
 *HopeDuino*   
 A development board that combines HopeRF's RF modules with Arduino-compatible functionality.
 Designed for rapid prototyping and IoT applications.
 Supports HopeRF’s wireless communication modules, making it easier to integrate RF capabilities into Arduino-based projects.
+
+*RFDK (RF Development Kit) & EVB (Evaluation Boards)*   
+RFDK includes hardware kits for developing RF applications using HopeRF chips.
+EVBs are specific evaluation boards for testing and optimizing HopeRF RF modules.
+These tools help engineers validate RF performance and integrate HopeRF solutions into their projects.
 
 # 1. RFPDK
 RFPDK is a software tool from HopeRF for configuring and testing RF products. It provides a user-friendly GUI to adjust key RF settings such as frequency, modulation, power, and data rate, supporting almost all of the CMT products.
